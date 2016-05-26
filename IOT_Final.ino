@@ -77,7 +77,7 @@ void loop(){
     Serial.println(" g");
   Serial.print("Y=");
   Serial.print(ay);
-    Serial.println(" g");
+    Serial.println(" g"); 
   Serial.print("Z=");
   Serial.println(az);
     Serial.println(" g");
